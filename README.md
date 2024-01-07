@@ -9,12 +9,14 @@ pip install pygame
 ```
 ### Format of text file
 **Explainations:**
-
 The text file is used as an input for the program, by describing the parameters of each planet:
 
-a planet is described on one line between {} with 5 parameters in it, each parameters are defined between parenthesis and they must be defined in this order:
-
-position(x,y); velocity(x, y); mass; radius; color(r,g,b)
+A planet is described on one line between {} with 5 parameters in it, each parameters are defined between parenthesis and they must be defined in this order:
+Markup: * position (x,y)
+ * velocity (x, y)
+ * mass
+ * radius
+ * color (r,g,b)
 
 **Example:**
 
