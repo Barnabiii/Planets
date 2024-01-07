@@ -14,7 +14,6 @@ The text file is used as an input for the program, by describing the parameters 
 
 a planet is described on one line between {} with 5 parameters in it, each parameters are defined between parenthesis and they must be defined in this order:
 
-
 position(x,y); velocity(x, y); mass; radius; color(r,g,b)
 
 **Example:**
