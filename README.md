@@ -22,14 +22,8 @@ position(x,y); velocity(x, y); mass; radius; color(r,g,b)
 '''{(250,150):(0.3,0):20:10:(255,255,0)}'''
 
 in this example the planet:
-
-
-  -is positioned at x: 250 and y: 150. 
-  
-  -has a velocity of x: 0.3 and y: 0.
-  
-  -has a mass of 20.
-  
-  -has a radius of 10.
-  
-  -is colored purple.
+Markup: * is positioned at x: 250 and y: 150. 
+  * has a velocity of x: 0.3 and y: 0.
+  * has a mass of 20.
+  * has a radius of 10.
+  * is colored purple.
