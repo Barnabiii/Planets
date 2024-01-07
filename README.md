@@ -19,7 +19,7 @@ position(x,y); velocity(x, y); mass; radius; color(r,g,b)
 
 **Example:**
 
-'''{(250,150):(0.3,0):20:10:(255,255,0)}'''
+```{(250,150):(0.3,0):20:10:(255,255,0)}```
 
 in this example the planet:
 Markup: * is positioned at x: 250 and y: 150. 
