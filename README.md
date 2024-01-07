@@ -8,7 +8,7 @@ The project uses a python library called pygame which you can install by
 pip install pygame
 ```
 ### Format of text file
-**Explainations:**
+**Explanations:**
 
 The text file is used as an input for the program, by describing the parameters of each planet:
 
