@@ -7,7 +7,7 @@ The project uses a python library called pygame which you can install by
 ```bash
 pip install pygame
 ```
-### format of text file
+### Format of text file
 **Explainations:**
 The text file is used as an input for the program, by describing the parameters of each planet:
 a planet is described on one line between {} with 5 parameters in it, each parameters are defined between parenthesis and they must be defined in this order:
